@@ -251,15 +251,8 @@ This project is open source and available under the [MIT License](LICENSE).
 - **Modern JavaScript** for clean, async code
 - **GitHub Pages** for free hosting
 
-## 📞 Support
-
-- **GitHub Issues**: For bugs and feature requests
-- **GitHub Discussions**: For questions and help
-- **Email**: [Your email here]
-- **Twitter**: [@yourusername]
 
 ---
 
-**Made with ❤️ and lots of raytracing magic!**
 
 *Star this repository if you found it helpful! ⭐*
