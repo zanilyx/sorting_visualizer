@@ -250,6 +250,7 @@ This project is open source and available under the [MIT License](LICENSE).
 - **CSS 3D Transforms** for raytracing effects
 - **Modern JavaScript** for clean, async code
 - **GitHub Pages** for free hosting
+- **Russian friend** for helping me with frontend
 
 
 ---
